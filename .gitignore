@@ -1,6 +1,7 @@
 /trained_model/
 /uploads/
-/policy_documents/
+/policy_documents/*
 .env
-/__pycache__
+__pycache__/
 .venv
+*.pdf
