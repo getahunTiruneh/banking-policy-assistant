@@ -1,0 +1,6 @@
+/trained_model/
+/uploads/
+/policy_documents/
+.env
+/__pycache__
+.venv
